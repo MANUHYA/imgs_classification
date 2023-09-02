@@ -1,4 +1,4 @@
-opencv-contrib-python-headless deepface
+opencv-contrib-python-headless 
 streamlit
 ultralytics
 numpy
